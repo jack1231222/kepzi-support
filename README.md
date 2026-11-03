@@ -2,6 +2,8 @@
 
 Kepzi is a personal prompt library for macOS 27 or later. It stores and organizes your own text; it does not provide an AI model or chat service.
 
+Official website: [kepzi.app](https://kepzi.app/) · [Help](https://kepzi.app/help/)
+
 ## Getting started
 
 Create a prompt, enter your text and save it. Use workspaces, groups, favorites and search to find it again. Template fields let you reuse a prompt with different details. Copy the result, or use the macOS **Insert with Kepzi** Services command in a compatible text editor. Press Return or double-click the selected prompt to insert; canceling leaves the target document unchanged.
@@ -25,6 +27,8 @@ Email **admin@qiaboluo.com** for support or a privacy request. Include your Kepz
 ---
 
 ## 中文使用支持
+
+官方网站：[kepzi.app](https://kepzi.app/zh/) · [使用帮助](https://kepzi.app/zh/help/)
 
 Kepzi 是适用于 macOS 27 及以上系统的个人提示词资料库，用于整理和使用自己的文字，不提供 AI 模型或聊天服务。
 
